@@ -1,0 +1,20 @@
+#carousel, .carousel-item img {
+    width: 50rem;
+    height: 28rem;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    filter: invert(0);
+}
+
+.carousel-indicators button {
+    filter: invert(1);
+}
+
+.version {
+    color: #ffffff !important;
+}
+
+#socials {
+    font-size: 0;
+}
